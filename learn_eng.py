@@ -4,7 +4,7 @@ import schedule
 import time
 import threading
 
-API_TOKEN = '7592276315:AAE1AtioAcLY8DnvKWXpJ-umGhUuEaXwark'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 user_data = {}
