@@ -16,10 +16,7 @@ pip install schedule
 ```bash
 pip install threading
 ```
-3. Импортируйте модуль `time`:
-```bash
-import time
-```
+3. Импортируйте модуль time: `import time`
 
 ## Использование
 Запуск бота:
