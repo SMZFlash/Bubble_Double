@@ -14,11 +14,9 @@ pip install pyTelegrambotAPI
 pip install schedule
 ```
 ```bash
-pip install time
-```
-```bash
 pip install threading
 ```
+3. Импортируйте модуль `time`
 
 ## Использование
 Запуск бота:
