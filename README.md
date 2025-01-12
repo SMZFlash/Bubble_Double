@@ -1,4 +1,4 @@
-## EnglishBot
+## WordAdventure
 ![Альтернативый текст](photo.jpeg)
 
 ## Описание проекта
